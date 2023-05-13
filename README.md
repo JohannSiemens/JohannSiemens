@@ -1,38 +1,15 @@
-<h1>Hello and welcome to my repository</h1>
+# 💫 About Me:
+I am a former business analyst/requirements engineer, currently a trainee in "web development" at neuefische and a passionate frontend developer.
 
-Hello, my name is Johann Siemens, a prospective Web Developer and former IT Business Analyst from germany. I have 4+ years of work experience as a Business Analyst and almost 6 years of work experience in the tech industry.
 
-My Hobbies
-- Muay Thai
-- MMA
-- Powerlifting
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JohannSiemens)
 
-![a random picture from unsplash](https://camo.githubusercontent.com/518d6fcc57315516bdbefa39816aff25dd2d01e634a760cc3636627ed7d66ab4/68747470733a2f2f736f757263652e756e73706c6173682e636f6d2f72616e646f6d2f32303078313030)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JohannSiemens&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JohannSiemens&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohannSiemens&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td>📚 Skills</td>
-      <td>⭐ Skill Level</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Business Analysis</td>
-      <td align="center">8</td>
-    </tr>
-    <tr>
-      <td>Project Management</td>
-      <td align="center">7</td>
-    </tr>
-    <tr>
-      <td>SAFe</td>
-      <td align="center">5</td>
-    </tr>
-    <tr>
-      <td>Requirements Engineering</td>
-      <td align="center">6</td>
-    </tr>
-  </tbody>
-</table>
-  
+---
