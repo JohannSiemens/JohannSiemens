@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a former business analyst/requirements engineer, currently a trainee in "web development" at neuefische and a passionate frontend developer.
+I am an IT Architect, with a big passion for web development, spending a large amount of my free time to develop web applications to solve different problems for small business owners.
 
 
 ## 🌐 Socials:
