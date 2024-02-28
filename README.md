@@ -1,7 +1,9 @@
 # 💫 About Me:
-I am an IT Architect, with a big passion for web development, spending a large amount of my free time to develop web applications to solve different problems for small business owners.
+I am a former IT Business Analyst, now IT Architect, with a big passion for web development, spending a large amount of my free time to develop web applications to solve different problems for small business owners.
 
-**Information for interested employers:**
+
+### Information for visiting employers:
+
 I am currently working on a web application in my own side business (german Nebengewerbe), which i am going to launch as a SaaS and is a private project within my github repository. I started this project right after finishing my Web Development bootcamp at neuefische in sommer 2023.
 It is an application based on the create.t3.gg stack including Next.js, Prisma, Tailwind, Typescript, Zod, tRPC & Next-Auth. I have implemented a whole signUp Workflow which is GDPR compliant and a payment process for the application with paddle.com (UK based Merchant or Record). The application itself is going to be deployed on Vercel and my MySQL database is hosted at Planetscale. Based on this criteria its considered a Fullstack-App.
 
