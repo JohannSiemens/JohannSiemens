@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a former IT Business Analyst, now IT Architect, with a big passion for web development, spending a large amount of my free time to develop web applications to solve different problems for small business owners.
+I am a former IT Business Analyst, now IT Security Engineer, with a big passion for web development & DevSecOps, spending a large amount of my free time on personal education, certifications for DevSecOps and building HomeLabs to transition into a role as a DevSecOps Engineer.
 
 
 ## 🌐 Socials:
